@@ -52,7 +52,7 @@ $(function() {
     /* The Menu Test Suite
      * is the menu working correctly when clicked? 
      */
-    describe('The menu', () => {
+    describe('The Menu', () => {
 
         // select the body tag 
         const menu =  $('body'); 
