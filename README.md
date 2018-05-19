@@ -29,7 +29,7 @@ https://github.com/cimwies/feedreader-test.git
 
 To view a life version application online
 
-1. open this link
+1. open this [link](https://cimwies.github.io/feedreader-test)
 
 
 
